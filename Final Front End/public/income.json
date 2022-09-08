@@ -1,0 +1,42 @@
+[
+ {
+  "Months": "Jan-13",
+  "Income": 7488,
+  "Expense": 4688
+ },
+ {
+  "Months": "Feb-13",
+  "Income": 6899,
+  "Expense": 4444
+ },
+ {
+  "Months": "Mar-13",
+  "Income": 4567,
+  "Expense": 4680
+ },
+ {
+  "Months": "Apr-13",
+  "Income": 2342,
+  "Expense": 5679
+ },
+ {
+  "Months": "May-13",
+  "Income": 6648,
+  "Expense": 3784
+ },
+ {
+  "Months": "Jun-13",
+  "Income": 2342,
+  "Expense": 3797
+ },
+ {
+  "Months": "Jul-13",
+  "Income": 7000,
+  "Expense": 2000
+ },
+ {
+  "Months": "Aug-13",
+  "Income": 8880,
+  "Expense": 6324
+ }
+]

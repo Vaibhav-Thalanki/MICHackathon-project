@@ -1,0 +1,282 @@
+[
+  {
+    "DATE": "29-Jun-17",
+    "TRANSACTION DETAILS": "TRF FROM  Indiaforensic SERVICES",
+    "VALUE DATE": "29-Jun-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 1000000
+  },
+  {
+    "DATE": "05-Jul-17",
+    "TRANSACTION DETAILS": "TRF FROM  Indiaforensic SERVICES",
+    "VALUE DATE": "05-Jul-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 1000000
+  },
+  {
+    "DATE": "18-Jul-17",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "18-Jul-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "01-Aug-17",
+    "TRANSACTION DETAILS": "TRF FRM  Indiaforensic SERVICES",
+    "VALUE DATE": "01-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 3000000
+  },
+  {
+    "DATE": "16-Aug-17",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "25-Mar-17",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "01-Nov-16",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "10-Jun-16",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "18-Jan-16",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "27-Aug-15",
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 0,
+    "Deposit_amount": 500000
+  },
+  {
+    "DATE": "05-Apr-15",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 133900,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "12-Nov-14",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 18000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "21-Jun-14",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 5000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "28-Jan-14",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 195800,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "06-Sep-13",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 81600,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "15-Apr-13",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 41800,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "22-Nov-12",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 98500,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "01-Jul-12",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 143800,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "08-Feb-12",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 331650,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "17-Sep-11",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 129000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "26-Apr-11",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 230013,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "16-Aug-17",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 367900,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "07-Dec-21",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 108000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "29-Mar-21",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 64800,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "19-Jul-20",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 141000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "09-Nov-19",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 61750,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "01-Mar-19",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 67920,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "21-Jun-18",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 78100,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "11-Oct-17",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 35650,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "31-Jan-17",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 206000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "23-May-16",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 35300,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "13-Sep-15",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 49800,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "03-Jan-15",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 53000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "25-Apr-14",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 91300,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "15-Aug-13",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 57499,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "05-Dec-12",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 20000,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "27-Mar-12",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31071",
+    "VALUE DATE": "16-Aug-17",
+    "WITHDRAWAL AMT": 19400,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "18-Jul-11",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01081",
+    "VALUE DATE": "06-Sep-17",
+    "WITHDRAWAL AMT": 40500,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "07-Nov-10",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02081",
+    "VALUE DATE": "06-Sep-17",
+    "WITHDRAWAL AMT": 242300,
+    "Deposit_amount": 0
+  },
+  {
+    "DATE": "27-Feb-10",
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03081",
+    "VALUE DATE": "06-Sep-17",
+    "WITHDRAWAL AMT": 90100,
+    "Deposit_amount": 0
+  }
+]

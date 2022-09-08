@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300;1,400&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+/* Start Banner */
+.banner{
+  width: 100%;
+  height: 100vh;
+
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Raleway', 'sans derif';
+  padding: 2rem;
+}
+
+.part-1{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+  /* border: red solid; */
+}
+
+.main-text{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: 'Raleway', 'sans derif';
+  margin-left: 3rem;
+}
+
+.line-1{
+  font-size: 7rem;
+  color: var(--light-purple);
+  font-family: 'Poiret One';
+}
+
+.line-2{
+  font-size: 7rem;
+  color: var(--purple);
+  font-family: 'Cinzel', 'sans derif';
+}
+
+.new{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 1.3rem;
+  margin-top: 3rem;
+}
+
+.highlight{
+  text-decoration: none;
+  color: var(--purple);
+}
+
+.part-2{
+  margin-left: 50rem;
+  margin-top: 4rem;
+}
+
+.apply{
+  background-color: rgb(93, 245, 101);
+  color: black;
+  
+  text-transform: uppercase;
+  
+  padding: 1.5rem;
+  font-size: 1rem;
+  
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  transition: 0.5s all;
+  transform-origin: right;
+
+  width: 8.5rem;
+  position: relative;
+}
+
+.icon{
+  width: 1rem;
+  left: 1rem;
+  opacity: 0;
+
+  position: absolute;
+
+  transition: 0.5s all;
+}
+
+.prompt{
+  position: absolute;
+  right: 1.3rem;
+
+  font-weight: 450;
+}
+
+.apply:hover{
+  width: 9.5rem;
+  transform-origin: right;
+  transition: 0.5s all;
+}
+
+.apply:hover .icon{
+  opacity: 1;
+  transform: rotate(180deg);
+  transition: 0.5s all;
+}
+
+.img{
+  width: 50rem;
+  height: 50rem;
+
+  margin-right: 5rem;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+/* End of Banner */
+
+/* Start Features */
+.features{
+  width: 100%;
+  height: auto;
+
+  /* border: black solid; */
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-head{
+  color: black;
+  font-size: 5rem;
+
+  text-align: center;
+}
+
+.feature-list{
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+  z-index: -10;
+
+  margin-top: 3rem;
+}
+
+.row{
+  width: 90vw;
+  padding: 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  /* border: black solid; */
+}
+
+.tile-1{
+  width: 25vw;
+  border: black solid;
+
+  border-radius: 2rem;
+  padding: 1.5rem;
+  margin-right: -5rem;
+}
+
+.tile-2{
+  width: 25vw;
+  border: black solid;
+
+  border-radius: 2rem;
+  padding: 1.5rem;
+  margin-left: -5rem;
+}
+
+.head{
+  color: black;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.para{
+  font-size: 1rem;
+  color: black;
+  text-indent: 50px;
+
+  margin-top: 5px;
+}
+
+.tileimg-1{
+  width: 8rem;
+  margin-right: 10rem;
+}
+
+.tileimg-2{
+  width: 8rem;
+  margin-left: 10rem;
+
+  /* border: black solid; */
+}
+
+.separator{
+  width: 70%;
+  height: 0.1px;
+  background-color: rgba(0, 0, 0, 0.212);
+
+  position: absolute;
+  transform: rotate(90deg);
+}
+
+/* End of Features */
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+
+
+@keyframes example {
+  0%   {margin-bottom: 3rem}
+  25%  {margin-bottom: 2.5rem}
+  50%  {margin-bottom: 2rem}
+  100% {margin-bottom: 1rem}
+}

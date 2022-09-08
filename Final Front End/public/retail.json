@@ -1,0 +1,162 @@
+[
+ {
+  "date": "24-Oct-11",
+  "retail_trans_amount": 9963
+ },
+ {
+  "date": "16-Nov-11",
+  "retail_trans_amount": 12177
+ },
+ {
+  "date": "05-Dec-11",
+  "retail_trans_amount": 12915
+ },
+ {
+  "date": "01-Jan-12",
+  "retail_trans_amount": 12054
+ },
+ {
+  "date": "27-Jan-12",
+  "retail_trans_amount": 8610
+ },
+ {
+  "date": "06-Feb-12",
+  "retail_trans_amount": 11439
+ },
+ {
+  "date": "09-Mar-12",
+  "retail_trans_amount": 4797
+ },
+ {
+  "date": "27-Mar-12",
+  "retail_trans_amount": 5904
+ },
+ {
+  "date": "31-Mar-12",
+  "retail_trans_amount": 8610
+ },
+ {
+  "date": "02-Nov-12",
+  "retail_trans_amount": 10209
+ },
+ {
+  "date": "03-Nov-12",
+  "retail_trans_amount": 7257
+ },
+ {
+  "date": "02-Dec-12",
+  "retail_trans_amount": 10824
+ },
+ {
+  "date": "08-Jan-13",
+  "retail_trans_amount": 9348
+ },
+ {
+  "date": "09-Jan-13",
+  "retail_trans_amount": 6027
+ },
+ {
+  "date": "09-Jan-13",
+  "retail_trans_amount": 4428
+ },
+ {
+  "date": "06-Feb-13",
+  "retail_trans_amount": 6642
+ },
+ {
+  "date": "11-Feb-13",
+  "retail_trans_amount": 4305
+ },
+ {
+  "date": "26-Feb-13",
+  "retail_trans_amount": 6396
+ },
+ {
+  "date": "05-Mar-13",
+  "retail_trans_amount": 9225
+ },
+ {
+  "date": "23-Mar-13",
+  "retail_trans_amount": 4551
+ },
+ {
+  "date": "25-Mar-13",
+  "retail_trans_amount": 9840
+ },
+ {
+  "date": "29-Apr-13",
+  "retail_trans_amount": 8856
+ },
+ {
+  "date": "12-May-13",
+  "retail_trans_amount": 5289
+ },
+ {
+  "date": "02-Jul-13",
+  "retail_trans_amount": 11562
+ },
+ {
+  "date": "08-Jul-13",
+  "retail_trans_amount": 9963
+ },
+ {
+  "date": "20-Aug-13",
+  "retail_trans_amount": 9225
+ },
+ {
+  "date": "22-Aug-13",
+  "retail_trans_amount": 5904
+ },
+ {
+  "date": "07-Oct-13",
+  "retail_trans_amount": 5904
+ },
+ {
+  "date": "20-Nov-13",
+  "retail_trans_amount": 9594
+ },
+ {
+  "date": "30-Dec-13",
+  "retail_trans_amount": 11439
+ },
+ {
+  "date": "15-Jan-14",
+  "retail_trans_amount": 12054
+ },
+ {
+  "date": "06-Mar-14",
+  "retail_trans_amount": 10701
+ },
+ {
+  "date": "26-Mar-14",
+  "retail_trans_amount": 9963
+ },
+ {
+  "date": "20-Jul-14",
+  "retail_trans_amount": 12669
+ },
+ {
+  "date": "29-Dec-14",
+  "retail_trans_amount": 9594
+ },
+ {
+  "date": "30-Jan-15",
+  "retail_trans_amount": 10947
+ },
+ {
+  "date": "21-Feb-15",
+  "retail_trans_amount": 8733
+ },
+ {
+  "date": "27-Feb-15",
+  "retail_trans_amount": 9471
+ },
+ {
+  "date": "15-Mar-15",
+  "retail_trans_amount": 4797
+ },
+ {
+  "date": "trans_date",
+  "retail_trans_amount": "retail_tran_amount"
+ }
+]
